@@ -59,3 +59,8 @@ else
 
 ### Emoji :trollface:
 🐒 🤠 🐝 👻 😺 
+---
+Ditado:
+>agua mole, pedra dura,
+>quem avisa amigo é...
+

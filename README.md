@@ -61,6 +61,6 @@ else
 🐒 🤠 🐝 👻 😺 
 ---
 Ditado:
->agua mole, pedra dura,
->quem avisa amigo é...
+> agua mole, pedra dura,
+> quem avisa amigo é...
 
